@@ -1,0 +1,17 @@
+C:\Users\blexier\Desktop\DiscordTooler\DiscordTool\bin\Debug\net8.0\DiscordTool.exe
+C:\Users\blexier\Desktop\DiscordTooler\DiscordTool\bin\Debug\net8.0\DiscordTool.deps.json
+C:\Users\blexier\Desktop\DiscordTooler\DiscordTool\bin\Debug\net8.0\DiscordTool.runtimeconfig.json
+C:\Users\blexier\Desktop\DiscordTooler\DiscordTool\bin\Debug\net8.0\DiscordTool.dll
+C:\Users\blexier\Desktop\DiscordTooler\DiscordTool\bin\Debug\net8.0\DiscordTool.pdb
+C:\Users\blexier\Desktop\DiscordTooler\DiscordTool\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\blexier\Desktop\DiscordTooler\DiscordTool\obj\Debug\net8.0\DiscordTool.csproj.AssemblyReference.cache
+C:\Users\blexier\Desktop\DiscordTooler\DiscordTool\obj\Debug\net8.0\DiscordTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blexier\Desktop\DiscordTooler\DiscordTool\obj\Debug\net8.0\DiscordTool.AssemblyInfoInputs.cache
+C:\Users\blexier\Desktop\DiscordTooler\DiscordTool\obj\Debug\net8.0\DiscordTool.AssemblyInfo.cs
+C:\Users\blexier\Desktop\DiscordTooler\DiscordTool\obj\Debug\net8.0\DiscordTool.csproj.CoreCompileInputs.cache
+C:\Users\blexier\Desktop\DiscordTooler\DiscordTool\obj\Debug\net8.0\DiscordTool.csproj.CopyComplete
+C:\Users\blexier\Desktop\DiscordTooler\DiscordTool\obj\Debug\net8.0\DiscordTool.dll
+C:\Users\blexier\Desktop\DiscordTooler\DiscordTool\obj\Debug\net8.0\refint\DiscordTool.dll
+C:\Users\blexier\Desktop\DiscordTooler\DiscordTool\obj\Debug\net8.0\DiscordTool.pdb
+C:\Users\blexier\Desktop\DiscordTooler\DiscordTool\obj\Debug\net8.0\DiscordTool.genruntimeconfig.cache
+C:\Users\blexier\Desktop\DiscordTooler\DiscordTool\obj\Debug\net8.0\ref\DiscordTool.dll

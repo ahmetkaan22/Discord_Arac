@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9KgvdADkQ/67s6rAiqBCfHeqIUvSNEgy7ixRcSgK/5j2FfYfhObi7q4W1NChvcKoM07KPeAU+7Q2xlnsfwU3ng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\blexier\\Desktop\\DiscordTooler\\DiscordTool\\DiscordTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blexier\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
